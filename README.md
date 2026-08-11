@@ -1,3 +1,6 @@
+NOTE: The node modules folder should have all the node 
+modules in it, more info on that in the folder.
+
 # simplified-4d-projection
 an express server and client for experimenting with 4d projection in three js
 
